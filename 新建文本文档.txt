@@ -1,0 +1,17 @@
+maven  
+本地仓库
+网络仓库
+
+maven项目
+
+http://gitee.com
+
+servers，添加tomcat
+
+点击Window -->preferences--> Java --> Code Style --> Code Templates --> Comments --> types 。设置注解模板
+
+北京市丰台区万兴路1号院2号楼3层302
+
+gitee qq登录
+
+github tudouni0421@163.com    fsl19920421    w981
